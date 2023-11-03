@@ -15,3 +15,7 @@
 \- [Random Forest](regression_2.html)
 \- [Adaboost](adaboost_regression.html)
 \- [Gradient Boosting](gradient_boosting_regression.html)
+
+### Assignment 6
+
+\- [Assignment 6](Math460Assignment6.html)
